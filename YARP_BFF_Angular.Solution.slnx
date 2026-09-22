@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MyApp.API/MyApp.API.csproj" Id="ef64438c-6ab9-414a-9b93-7185435be9ee" />
+  <Project Path="MyApp.IDP/MyApp.IDP.csproj" Id="7db8732e-550d-4554-a573-1c55c7247f8c" />
+  <Project Path="MyApp.Backend/MyApp.Backend.csproj" />
+</Solution>
